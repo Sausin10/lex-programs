@@ -1,0 +1,9 @@
+void main ( )
+{
+int sum =0;
+if (!sum) ("hello");
+for ( int i =0; i <10; i=i +1)
+{
+sum = sum + i + 10.43 + 34.E4 + 45.34E-4 + E43 + .23 ;
+}
+}
